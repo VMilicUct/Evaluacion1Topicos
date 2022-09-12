@@ -1,0 +1,110 @@
+[
+    {
+        "file": "C:/Users/vmili/Desktop/R-rcpp/Source/evatopi1/src/cbind_rcpp.cpp",
+        "file_last_write": 1662357644.0,
+        "definitions": [
+            {
+                "usr": "c:@F@cbind_rcpp#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "cbind_rcpp(Rcpp::NumericMatrix, Rcpp::NumericVector)",
+                "file": "C:/Users/vmili/Desktop/R-rcpp/Source/evatopi1/src/cbind_rcpp.cpp",
+                "line": 4,
+                "column": 15,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/vmili/Desktop/R-rcpp/Source/evatopi1/src/code.cpp",
+        "file_last_write": 1662357524.0,
+        "definitions": [],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/vmili/Desktop/R-rcpp/Source/evatopi1/src/mMatricial_Rcpp.cpp",
+        "file_last_write": 1662357672.0,
+        "definitions": [
+            {
+                "usr": "c:@F@mMatrix_rcpp#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "mMatrix_rcpp(Rcpp::NumericMatrix, Rcpp::NumericMatrix)",
+                "file": "C:/Users/vmili/Desktop/R-rcpp/Source/evatopi1/src/mMatricial_Rcpp.cpp",
+                "line": 4,
+                "column": 15,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/vmili/Desktop/R-rcpp/Source/evatopi1/src/maxMin_rcpp.cpp",
+        "file_last_write": 1662093034.0,
+        "definitions": [
+            {
+                "usr": "c:@F@maxMin_cpp#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "maxMin_cpp(Rcpp::NumericMatrix, Rcpp::NumericMatrix)",
+                "file": "C:/Users/vmili/Desktop/R-rcpp/Source/evatopi1/src/maxMin_rcpp.cpp",
+                "line": 4,
+                "column": 15,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/vmili/Desktop/R-rcpp/Source/evatopi1/src/rbind_rcpp.cpp",
+        "file_last_write": 1662357687.0,
+        "definitions": [
+            {
+                "usr": "c:@F@rbind_rcpp#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "rbind_rcpp(Rcpp::NumericMatrix, Rcpp::NumericVector)",
+                "file": "C:/Users/vmili/Desktop/R-rcpp/Source/evatopi1/src/rbind_rcpp.cpp",
+                "line": 4,
+                "column": 15,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/vmili/Desktop/R-rcpp/Source/evatopi1/src/whichMax_rcpp.cpp",
+        "file_last_write": 1662093034.0,
+        "definitions": [
+            {
+                "usr": "c:@F@whichMax#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "whichMax(Rcpp::NumericMatrix)",
+                "file": "C:/Users/vmili/Desktop/R-rcpp/Source/evatopi1/src/whichMax_rcpp.cpp",
+                "line": 4,
+                "column": 11,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    },
+    {
+        "file": "C:/Users/vmili/Desktop/R-rcpp/Source/evatopi1/src/whichMin_rcpp.cpp",
+        "file_last_write": 1662093034.0,
+        "definitions": [
+            {
+                "usr": "c:@F@whichMin#$@N@Rcpp@S@Matrix>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "whichMin(Rcpp::NumericMatrix)",
+                "file": "C:/Users/vmili/Desktop/R-rcpp/Source/evatopi1/src/whichMin_rcpp.cpp",
+                "line": 4,
+                "column": 11,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    }
+]

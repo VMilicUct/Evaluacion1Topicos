@@ -1,0 +1,15 @@
+Package: evatopi1
+Type: Package
+Title: evatopi1
+Version: 0.1.0
+Author: Vicente Milic
+Maintainer: Vicente Milic Fuentes <vmilic2017@alu.uct.cl>
+Description: Uso de funciones en rcpp para matrices.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
+LinkingTo: 
+    Rcpp
+Imports: 
+    Rcpp
